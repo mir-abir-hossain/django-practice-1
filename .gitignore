@@ -1,2 +1,3 @@
 djangone/
 **/migrations/
+__pycache__/
