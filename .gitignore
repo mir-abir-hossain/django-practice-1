@@ -1,0 +1,4 @@
+djangone/
+**/migrations/
+__pycache__/
+.gitignore/
